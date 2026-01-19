@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/GM_TargetGame.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/JZ/5WTNRRQXE2631L087RM0TC.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/Y4/4S0NZ9D6DG8EI1FMPSLOQV.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_UI.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/WBP_Endscreenn.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/DP/14WRXEQJPYWSAJLI6RB62T.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/Target/SM_Target_SM_Target/SM_Target_GeometryCollection.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VV/7W7NZDEK85DYADM5IA47LB.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/62/V6W8ZPDXTGJD6L6XDVGN1G.uasset",
+				"C:/Users/orosz/Desktop/FirstPersonTemplate/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/K9/ZX6E7WSUC1T13P84E9SC8K.uasset"
+			]
+		}
+	]
+}

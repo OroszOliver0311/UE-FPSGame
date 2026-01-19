@@ -1,0 +1,8 @@
+[10808:11572:0116/213242.574:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10808:14844:0116/213242.788:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10808:11572:0116/213242.879:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10808:11572:0116/213246.386:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[10808:11572:0116/213250.072:ERROR:device_event_log_impl.cc(196)] [21:32:49.743] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Az elem nem található. (0x490)
+[10852:13324:0116/213250.778:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2D00DC4E70A67900487952977118FC7D will be ignored
+[10808:11572:0116/213410.855:ERROR:device_event_log_impl.cc(196)] [21:34:10.801] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Az elem nem található. (0x490)
+[10808:11572:0116/225404.093:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
